@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Red</title>
 </head>
-<body>
-    <!-- Leaders List $students -->
+<body style="background:red">
+    Content here ....
 </body>
 </html>
